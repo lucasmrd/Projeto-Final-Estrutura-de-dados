@@ -1,0 +1,23 @@
+# Arquivos gerados pelo Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Arquivos de ambiente
+.env
+
+# Arquivos de logs e caches
+*.log
+*.cache
+
+# Diretórios de build e distribuição
+build/
+dist/
+
+# Arquivos de configuração local
+*.ini
+*.cfg
+
+# Arquivos temporários
+*.swp
+*.bak
